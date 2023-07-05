@@ -4,6 +4,7 @@
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
 </p>
+<h1 align="center">ĐỒ ÁN MÁY HỌC</h1>
 
 <h2>Nhóm "Nhom8"</h2>
 
