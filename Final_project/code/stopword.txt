@@ -1134,7 +1134,6 @@ bên
 để_phần
 khó_mở
 giá_trị_thực_tế
-bánh
 phứt
 ớ_này
 ắt_là
@@ -1173,7 +1172,6 @@ nước_cùng
 số_cụ_thể
 ăn_tay
 trong_mình
-hỗ_trợ
 luôn_tay
 không_thể
 số_cho_biết
@@ -1768,7 +1766,6 @@ chúng_mình
 không_bao_lâu
 trả
 làm_lại
-giá_cả
 sang_năm
 thậm_chí
 nhà_khó
@@ -1787,7 +1784,6 @@ trong_đó
 ngay_lúc_này
 ba_ba
 chớ_không
-đồ_ăn
 chớ_như
 đâu_đó
 mới_rồi
