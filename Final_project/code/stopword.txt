@@ -37,7 +37,6 @@ vốn_dĩ
 thêm_chuyện
 lần_trước
 ba_ngôi
-tăng_thêm
 thật_chắc
 phỏng_nước
 ngộ_nhỡ
@@ -213,7 +212,6 @@ xa_xả
 thế
 vào
 vèo_vèo
-thích
 nhất_đán
 đã
 vùng
@@ -381,12 +379,10 @@ dào
 tới_mức
 quá_trình
 ngày_giờ
-thích_ý
 chú
 cơ_dẫn
 ừ_nhé
 ngay
-lấy_thêm
 ừ_ào
 nhận_nhau
 tắp_tắp
@@ -587,7 +583,6 @@ chỉn
 chung_cục
 khác_khác
 luôn_luôn
-nhất_định
 bất_chợt
 sẽ
 quả
@@ -616,7 +611,6 @@ chịu_ăn
 lần
 dạ_dài
 nhân_tiện
-thích_cứ
 lại_nữa
 lại_đây
 cơ_hội
@@ -953,7 +947,6 @@ giảm_chính
 trước_đó
 gây_thêm
 đã_vậy
-ít_ra
 không_những
 nghe_đâu
 lấy_vào
@@ -1574,7 +1567,6 @@ sở_dĩ
 ít_nữa
 chung_chung
 than_ôi
-quay
 nói_nhỏ
 cóc_khô
 bao_lâu
@@ -1658,7 +1650,6 @@ nên_chi
 được_lời
 không_chỉ
 cùng_với
-phải
 ba_tăng
 phương_chi
 từ_loại
@@ -1706,7 +1697,6 @@ nhớ_bập_bõm
 quá_tin
 quan_trọng
 quả_vậy
-thêm
 để_mà
 toàn
 thốc
@@ -1751,7 +1741,6 @@ chứ_ai
 con_dạ
 từ_khi
 chớ_kể
-đông
 đến_nỗi
 chu_cha
 để
@@ -1837,7 +1826,6 @@ qua_lại
 khác_nhau
 ý_da
 là_nhiều
-ra_gì
 ngọn
 họ
 bỗng_chốc
