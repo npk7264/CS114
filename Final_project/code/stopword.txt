@@ -850,7 +850,6 @@ vị_trí
 bỏ_bà
 xin_gặp
 cảm_ơn
-tìm
 cho_đến_khi
 lấy_ráo
 thế_lại
@@ -1147,7 +1146,6 @@ phứt
 ớ_này
 ắt_là
 nào_đâu
-khó
 nước_bài
 phía_dưới
 nếu_có
@@ -1167,7 +1165,6 @@ oái
 ra_ý
 ngôi_nhà
 lại_làm
-dễ
 của_ngọt
 là_ít
 chầm_chập
@@ -1178,7 +1175,6 @@ bài_cái
 gì_đó
 chứ_còn
 biết_việc
-dễ_thường
 nhanh_lên
 nước_cùng
 số_cụ_thể
