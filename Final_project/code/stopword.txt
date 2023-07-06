@@ -5,7 +5,6 @@ nói_đến
 nhân_viên
 bỗng_không
 hết_của
-hết_ý
 khó_thấy
 ngọn_nguồn
 ứ_ừ
@@ -664,7 +663,6 @@ sẽ_biết
 ngày_ngày
 chung_cuộc
 dài_lời
-sao_bằng
 tên_họ
 cơ_hồ
 bàn
@@ -902,7 +900,6 @@ tới_gần
 nói_trước
 như_ai
 sáng_rõ
-gần
 phía_trong
 tại_vì
 bằng_nào
@@ -1181,7 +1178,6 @@ nữa_khi
 trong_này
 ôi_thôi
 bất_thình_lình
-bằng_như
 làm_vì
 nhận_làm
 đang_tay
@@ -1452,7 +1448,6 @@ có_đáng
 qua_đi
 lấy_để
 đến_lời
-bằng_không
 về_nước
 có_cơ
 phải_lời
@@ -1557,7 +1552,6 @@ chính_giữa
 số
 lý_do
 cho_tới_khi
-hết
 còn_thời_gian
 bán_cấp
 nghe_đâu_như
@@ -1645,7 +1639,6 @@ ngày_đến
 cách_không
 úi
 lấy_lý_do
-bằng
 thi_thoảng
 tháng_ngày
 nhìn_xuống
@@ -1698,7 +1691,6 @@ giờ_lâu
 luôn_cả
 đưa_em
 buổi_mới
-bằng_được
 biết_mấy
 thỉnh_thoảng
 mới_hay
