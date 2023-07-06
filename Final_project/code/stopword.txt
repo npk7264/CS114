@@ -1175,7 +1175,6 @@ số_cụ_thể
 trong_mình
 hỗ_trợ
 luôn_tay
-không_thể
 số_cho_biết
 bỗng_đâu
 đến_nơi
@@ -1372,7 +1371,6 @@ từ_ấy
 ái_dà
 cái_đã
 mua
-thường_thôi
 thanh_tính
 dùng_đến
 đủ_điều
@@ -1385,7 +1383,6 @@ trong_số
 nhà_hàng
 ý_chừng
 chung_quy
-vẫn
 tính_phỏng
 chúng
 phải_giờ
