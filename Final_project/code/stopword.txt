@@ -705,7 +705,6 @@ ngày_ấy
 nức_nở
 cao_răng
 dạ_con
-nước_quả
 món
 bỏ_không
 tuần_tự
@@ -917,7 +916,6 @@ vậy_thì
 cốc
 như_thường
 làm_gì
-khi_nên
 tay_quay
 bà_ấy
 phải_người
@@ -1080,7 +1078,6 @@ thấp_xuống
 còn_nữa
 cao_lâu
 cùng_chung
-lần_sau
 song_le
 điều
 nói_toẹt
@@ -1167,9 +1164,7 @@ từ_thế
 tin
 về
 cơ_chừng
-nên
 nước_lên
-nhanh
 tính_từ
 oái
 ra_ý
@@ -1706,7 +1701,6 @@ dành
 số_thiếu
 lại_ăn
 gần_đây
-lần_này
 ăn_hết
 tăng_cấp
 chậc
@@ -1860,7 +1854,6 @@ dần_dần
 thường_sự
 sau_sau
 cô_quả
-ô_kê
 trước_nay
 thì
 chui_cha
