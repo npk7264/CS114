@@ -5,7 +5,6 @@ nói_đến
 nhân_viên
 bỗng_không
 hết_của
-hết_ý
 khó_thấy
 ngọn_nguồn
 ứ_ừ
@@ -75,7 +74,6 @@ ngày_xửa
 cho_tin
 lấy_lại
 cho_đến
-chỗ
 thím
 như_thế_nào
 vâng_dạ
@@ -325,7 +323,6 @@ làm_ngay
 ăn_chung
 bức
 lúc_nào
-chưa_có
 ăn_hỏi
 cơ_cùng
 từ_tại
@@ -407,7 +404,6 @@ bất_kể
 chăng
 cấp
 nghe_ra
-chưa_dễ
 đâu_đây
 bước
 chính_thị
@@ -565,7 +561,6 @@ bán_thế
 vung_tàn_tán
 dài
 ra_điều
-lâu
 con_nhà
 đặt
 từ_căn
@@ -581,8 +576,6 @@ cu_cậu
 béng
 chỉn
 chung_cục
-khác_khác
-luôn_luôn
 bất_chợt
 sẽ
 quả
@@ -670,7 +663,6 @@ sẽ_biết
 ngày_ngày
 chung_cuộc
 dài_lời
-sao_bằng
 tên_họ
 cơ_hồ
 bàn
@@ -697,7 +689,6 @@ ngày_ấy
 nức_nở
 cao_răng
 dạ_con
-món
 bỏ_không
 tuần_tự
 bay_biến
@@ -717,7 +708,6 @@ lấy_sau
 mất
 do
 sì
-đặc_biệt
 đánh_đùng
 thay_đổi
 ở_vào
@@ -759,7 +749,6 @@ phỏng_tính
 nghe_được
 hay_không
 nhờ_đó
-cần
 do_vậy
 vùng_lên
 có_chăng_là
@@ -841,7 +830,6 @@ vậy
 mất_còn
 vị_trí
 đúng
-bỏ_bà
 xin_gặp
 cảm_ơn
 cho_đến_khi
@@ -883,7 +871,6 @@ bớ
 sự
 tự_khi
 điểm_đầu_tiên
-nhất
 nghe_hiểu
 ráo_cả
 lại_thôi
@@ -913,7 +900,6 @@ tới_gần
 nói_trước
 như_ai
 sáng_rõ
-gần
 phía_trong
 tại_vì
 bằng_nào
@@ -998,7 +984,6 @@ tên
 phần_nhiều
 xa_tanh
 chưa_chắc
-bỏ_cha
 chốc_chốc
 xon_xón
 gần_đến
@@ -1061,7 +1046,6 @@ riêng
 qua_thì
 tại_lòng
 lượng_từ
-ăn
 lòng_không
 thấp_xuống
 còn_nữa
@@ -1134,6 +1118,7 @@ bên
 để_phần
 khó_mở
 giá_trị_thực_tế
+bánh
 phứt
 ớ_này
 ắt_là
@@ -1172,8 +1157,8 @@ nước_cùng
 số_cụ_thể
 ăn_tay
 trong_mình
+hỗ_trợ
 luôn_tay
-không_thể
 số_cho_biết
 bỗng_đâu
 đến_nơi
@@ -1193,7 +1178,6 @@ nữa_khi
 trong_này
 ôi_thôi
 bất_thình_lình
-bằng_như
 làm_vì
 nhận_làm
 đang_tay
@@ -1241,7 +1225,6 @@ tháng_tháng
 phỏng_theo
 vì
 lên_cơn
-nhất_là
 chia_sẻ
 cực_lực
 nhà
@@ -1297,7 +1280,6 @@ nào_phải
 tức_tốc
 những_muốn
 tự
-bỏ_mẹ
 tháng
 nghĩ_xa
 sao_bản
@@ -1359,7 +1341,6 @@ khác_thường
 nọ
 nhiều_ít
 à
-sớm
 nên_chăng
 chỉ
 sau_hết
@@ -1370,7 +1351,6 @@ từ_ấy
 ái_dà
 cái_đã
 mua
-thường_thôi
 thanh_tính
 dùng_đến
 đủ_điều
@@ -1383,7 +1363,6 @@ trong_số
 nhà_hàng
 ý_chừng
 chung_quy
-vẫn
 tính_phỏng
 chúng
 phải_giờ
@@ -1469,7 +1448,6 @@ có_đáng
 qua_đi
 lấy_để
 đến_lời
-bằng_không
 về_nước
 có_cơ
 phải_lời
@@ -1534,7 +1512,6 @@ chủ
 mỗi_một
 thịt
 cao_xa
-rất_lâu
 khỏi
 khoảng_không
 không_cùng
@@ -1575,7 +1552,6 @@ chính_giữa
 số
 lý_do
 cho_tới_khi
-hết
 còn_thời_gian
 bán_cấp
 nghe_đâu_như
@@ -1663,7 +1639,6 @@ ngày_đến
 cách_không
 úi
 lấy_lý_do
-bằng
 thi_thoảng
 tháng_ngày
 nhìn_xuống
@@ -1716,14 +1691,12 @@ giờ_lâu
 luôn_cả
 đưa_em
 buổi_mới
-bằng_được
 biết_mấy
 thỉnh_thoảng
 mới_hay
 bỏ
 khi_khác
 tìm_hiểu
-cũng_vậy
 tới_thì
 cái
 tại_tôi
@@ -1746,7 +1719,6 @@ cho_tới
 đến_gần
 khỏi_nói
 để_giống
-như_thể
 xa_xa
 cái_ấy
 siêu
@@ -1766,6 +1738,7 @@ chúng_mình
 không_bao_lâu
 trả
 làm_lại
+giá_cả
 sang_năm
 thậm_chí
 nhà_khó
@@ -1784,6 +1757,7 @@ trong_đó
 ngay_lúc_này
 ba_ba
 chớ_không
+đồ_ăn
 chớ_như
 đâu_đó
 mới_rồi
