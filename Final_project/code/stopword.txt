@@ -75,7 +75,6 @@ ngày_xửa
 cho_tin
 lấy_lại
 cho_đến
-chỗ
 thím
 như_thế_nào
 vâng_dạ
@@ -325,7 +324,6 @@ làm_ngay
 ăn_chung
 bức
 lúc_nào
-chưa_có
 ăn_hỏi
 cơ_cùng
 từ_tại
@@ -407,7 +405,6 @@ bất_kể
 chăng
 cấp
 nghe_ra
-chưa_dễ
 đâu_đây
 bước
 chính_thị
@@ -565,7 +562,6 @@ bán_thế
 vung_tàn_tán
 dài
 ra_điều
-lâu
 con_nhà
 đặt
 từ_căn
@@ -697,7 +693,6 @@ ngày_ấy
 nức_nở
 cao_răng
 dạ_con
-món
 bỏ_không
 tuần_tự
 bay_biến
@@ -717,7 +712,6 @@ lấy_sau
 mất
 do
 sì
-đặc_biệt
 đánh_đùng
 thay_đổi
 ở_vào
@@ -759,7 +753,6 @@ phỏng_tính
 nghe_được
 hay_không
 nhờ_đó
-cần
 do_vậy
 vùng_lên
 có_chăng_là
@@ -841,7 +834,6 @@ vậy
 mất_còn
 vị_trí
 đúng
-bỏ_bà
 xin_gặp
 cảm_ơn
 cho_đến_khi
@@ -883,7 +875,6 @@ bớ
 sự
 tự_khi
 điểm_đầu_tiên
-nhất
 nghe_hiểu
 ráo_cả
 lại_thôi
@@ -998,7 +989,6 @@ tên
 phần_nhiều
 xa_tanh
 chưa_chắc
-bỏ_cha
 chốc_chốc
 xon_xón
 gần_đến
@@ -1061,7 +1051,6 @@ riêng
 qua_thì
 tại_lòng
 lượng_từ
-ăn
 lòng_không
 thấp_xuống
 còn_nữa
@@ -1242,7 +1231,6 @@ tháng_tháng
 phỏng_theo
 vì
 lên_cơn
-nhất_là
 chia_sẻ
 cực_lực
 nhà
@@ -1298,7 +1286,6 @@ nào_phải
 tức_tốc
 những_muốn
 tự
-bỏ_mẹ
 tháng
 nghĩ_xa
 sao_bản
@@ -1360,7 +1347,6 @@ khác_thường
 nọ
 nhiều_ít
 à
-sớm
 nên_chăng
 chỉ
 sau_hết
@@ -1533,7 +1519,6 @@ chủ
 mỗi_một
 thịt
 cao_xa
-rất_lâu
 khỏi
 khoảng_không
 không_cùng
@@ -1722,7 +1707,6 @@ mới_hay
 bỏ
 khi_khác
 tìm_hiểu
-cũng_vậy
 tới_thì
 cái
 tại_tôi
@@ -1745,7 +1729,6 @@ cho_tới
 đến_gần
 khỏi_nói
 để_giống
-như_thể
 xa_xa
 cái_ấy
 siêu
