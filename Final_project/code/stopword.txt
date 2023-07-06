@@ -253,7 +253,6 @@ nhất_loạt
 thảo_nào
 làm_sao
 bài_bác
-thái_độ
 phót
 qua_lần
 cá_nhân
@@ -320,7 +319,6 @@ vụt
 dễ_đâu
 thuộc_cách
 tất_cả
-khác
 bán_dạ
 một_cơn
 phè_phè
@@ -770,7 +768,6 @@ nhờ_đó
 cần
 do_vậy
 vùng_lên
-nhiệt
 có_chăng_là
 phóc
 phụt
@@ -1631,7 +1628,6 @@ tít_mù
 mọi_nơi
 thường_tính
 ngay_từ
-thái_quá
 trước_ngày
 tìm_việc
 dài_ra
