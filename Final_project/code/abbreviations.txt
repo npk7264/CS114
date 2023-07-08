@@ -36,4 +36,3 @@ nc:nước
 oki:ok
 oke:ok
 okela:ok
-
