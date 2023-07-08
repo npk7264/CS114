@@ -397,7 +397,6 @@ ngoài_ra
 tại_đây
 cấp_số
 sao_đang
-quá
 như_quả
 sau_nữa
 bất_kể
