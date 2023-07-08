@@ -7,7 +7,7 @@ khg:không
 iu:yêu
 thick:thích
 thíck:thích
-thik: thích
+thik:thích
 vk:vợ
 ck:chồng
 ncl:nói chung là
