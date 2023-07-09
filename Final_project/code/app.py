@@ -46,7 +46,7 @@ def comment_preprocess(comment):
 
 # Title
 st.header("Phân tích cảm xúc bình luận")
-svm = joblib.load("./Final_project/code/clf_svm.pkl")
+svm = joblib.load("./Final_project/code/clf_logic.pkl")
 
 
 # Phân tích cảm xúc trong bình luận
