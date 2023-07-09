@@ -130,3 +130,12 @@ def feature_extraction(document):
         return feature
 
     return extract_line(tokenized, mask)
+
+
+# Tách một đoạn văn thành nhiều câu
+def extract_sectence_from_paragraph(paragraph):
+    sentences = []
+    for sentence in paragraph.split('.'):
+        sentences.extend(sentence.split('\n'))
+    sentences = [sentence.strip() for sentence in sentences if sentence.strip() != '']
+    return sentences

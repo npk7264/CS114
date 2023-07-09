@@ -13,3 +13,4 @@ nhg:nhưng
 baoh:bao giờ
 kbh:không bao giờ
 nv:nhân viên
+nc:nước
